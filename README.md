@@ -6,7 +6,7 @@ This repo lets users utilize the mouse with just their fingers. This repo has 2 
 * Roaming Mode: You can use the index finger to move aroud the mouse.
 * Clicking Mode: You can use both index and middle fingers together to perform the clicking action.
 
-  To run:
+To run:
   ```
   python AiVirtualMouseProject.py
   ```
